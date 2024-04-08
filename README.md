@@ -10,6 +10,8 @@ To write a python program to find the distance two 2 points
 ### Step 5: End of the program
 ### PROGRAM:
 ```
+Developed by: NITHIYANANDAN.N
+Register Number:212222230099
   import math 
 l1 = [4,2]
 l2 = [10,6]
@@ -19,8 +21,8 @@ print("{:.2f}".format(d))
 
 
 ### OUTPUT:
-![Screenshot 2024-03-22 100752](https://github.com/NITHIYANANDAN278/DISTANCE-BETWEEN-TWO-POINTS/assets/121784636/db9a137d-ff56-4b6f-8c01-589c5b1d5e66)
-![Screenshot 2024-03-22 100822](https://github.com/NITHIYANANDAN278/DISTANCE-BETWEEN-TWO-POINTS/assets/121784636/dbc689f2-aece-4aa7-991f-8d2357488d9d)
+![image](https://github.com/NITHIYANANDAN278/DISTANCE-BETWEEN-TWO-POINTS/assets/121784636/4906b6cb-29da-4649-a60f-e4b1b6bbd346)
+
 
 
 
